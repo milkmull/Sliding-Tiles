@@ -22,5 +22,8 @@ Table top card game with local wireless play.
 4. Run main.py
 `python3 main.py`
 
-
-## Usage
+## Usage:
+  Click on any tile with an empty space next to it to move that tile into the space
+  When all of the tiles are in the correct spaces, a message will be displayed
+  
+  (optional) put any .jpg or .png file into the same directory as the main file. The program will randomly select an image from all available images in the directory to use
