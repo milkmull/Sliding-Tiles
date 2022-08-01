@@ -16,7 +16,7 @@ Table top card game with local wireless play.
 
 ### Installation
 1. Clone the repo
-``git clone https://github.com/milkmull/Card-Game``
+``git clone https://github.com/milkmull/Sliding-Tiles.git``
 2. Install dependencies
 3. put a .jpg or .png file in the same directory to be used as the puzzle image
 4. Run main.py
